@@ -14,6 +14,12 @@
 
 ## Previews
 
+
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://widgetforspotify.vercel.app/api" alt="Current Spotify Song">
+</a>
+
+
 #### Default
 ```
 /api
