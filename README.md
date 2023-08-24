@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/spotify.svg" width="100" align="center">
+  <img src="assets/spotify.svg" width="400" align="center">
   <h1>Spotify Readme</h1>
 
   [![Badge](https://img.shields.io/github/issues/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/issues)
